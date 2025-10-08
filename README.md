@@ -49,8 +49,8 @@ I love working on clean architectures, efficient APIs, and modern front-end expe
 
 ## 📬 Connect with Me
 
-- [💼 LinkedIn](https://linkedin.com/in/jorgedelgadillo)  
-- [🌐 Portfolio](https://your-website.com) _(optional)_  
+- [💼 LinkedIn](https://www.linkedin.com/in/jorge-delgadillo/)  
+- [🌐 Portfolio](https://jorgedelgadillo.com)
 - 📫 Feel free to reach out about collaboration or open-source projects!
 
 ---
